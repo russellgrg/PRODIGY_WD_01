@@ -28,12 +28,6 @@ This is Task 1 of the **Prodigy InfoTech Web Development Internship**. The task 
 
 ---
 
-### 📎 Live Preview
-
-> _(Optional)_ You can enable GitHub Pages for this repo and paste the live link here.
-
----
-
 ### 📂 Folder Structure
 
 PRODIGY_WD_01/
