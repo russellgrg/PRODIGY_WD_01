@@ -39,7 +39,7 @@ PRODIGY_WD_01/
 
 ### 📌 Submission Info
 
-This repository is maintained for internship evaluation under the naming convention:
+This repository is maintained for internship evaluation under the naming convention: PRODIGY_WD_01
 
 ---
 
