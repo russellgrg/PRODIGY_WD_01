@@ -6,6 +6,12 @@ This is Task 1 of the **Prodigy InfoTech Web Development Internship**. The task 
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view it live](https://russellgrg.github.io/PRODIGY_WD_01/)
+
+---
+
 ### 🔧 Technologies Used
 
 - HTML5
